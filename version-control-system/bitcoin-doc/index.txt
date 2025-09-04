@@ -1,1 +1,4 @@
 What is bitcoin?
+
+Bitcoin is a digital currency (also called a cryptocurrency)
+that was created in 2009 by an anonymous person or group using the name Satoshi Nakamoto.
