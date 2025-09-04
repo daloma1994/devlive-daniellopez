@@ -2,3 +2,10 @@ What is bitcoin?
 
 Bitcoin is a digital currency (also called a cryptocurrency)
 that was created in 2009 by an anonymous person or group using the name Satoshi Nakamoto.
+
+Decentralized: It isn’t controlled by any government, bank, or company. Instead, it runs on a peer-to-peer network.
+Blockchain technology: All transactions are recorded on a public ledger called the blockchain, which is maintained by computers (nodes) around the world.
+Limited supply: There will only ever be 21 million bitcoins, making it scarce like gold.
+Mining: New bitcoins are created through a process called mining, where powerful computers solve complex problems to validate transactions.
+Digital ownership: People store and transfer bitcoin using digital wallets, which are secured with cryptographic keys.
+Use cases: It can be used for payments, remittances, or as a form of investment (often compared to “digital gold”).
