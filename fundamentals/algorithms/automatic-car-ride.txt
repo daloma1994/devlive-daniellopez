@@ -1,0 +1,50 @@
+Proporciona una explicación detallada en un archivo .txt de las acciones que
+realizarías al prepararte para conducir un coche automático.
+
+Este ejercicio está diseñado para ayudarte a entender los conceptos básicos 
+de los algoritmos al darte un ejemplo del mundo real sobre cómo llevar tu
+coche a dar un paseo.
+
+Solucion:
+
+
+1. Ingresar al vehículo
+   2.1 Abrir la puerta del conductor.
+   2.2 Sentarse en el asiento.
+   2.3 Cerrar la puerta correctamente.
+
+2. Preparar la posición de conducción
+   3.1 Ajustar el asiento (distancia y altura).
+   3.2 Ajustar los espejos (laterales y retrovisor).
+   3.3 Colocarse el cinturón de seguridad.
+
+3. Preparar el vehículo
+   4.1 Insertar la llave o presionar el botón de encendido.
+   4.2 Verificar que el tablero encienda correctamente.
+   4.3 Confirmar que el vehículo esté en posición "P" (Park).
+
+4. Encender el motor
+   5.1 Presionar el pedal de freno.
+   5.2 Encender el vehículo.
+
+
+5. Iniciar la conducción
+   7.1 Mover la marcha a Drive.
+   7.2 Soltar el freno lentamente.
+   7.3 Presionar suavemente el acelerador.
+   7.4 Mantener el control del volante.
+
+6. Durante la conducción
+   8.1 Respetar señales de tránsito.
+   8.2 Mantener distancia con otros vehículos.
+   8.3 Ajustar velocidad según el entorno.
+
+7. Detener el vehículo
+   9.1 Reducir velocidad gradualmente.
+   9.2 Presionar el freno hasta detenerse completamente.
+   9.3 Colocar la palanca en "P".
+
+8. Finalizar
+   10.1 Apagar el motor.
+   10.2 Quitarse el cinturón.
+   10.3 Salir del vehículo y cerrar la puerta.
