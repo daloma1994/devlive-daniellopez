@@ -1,0 +1,12 @@
+Proporciona una explicacion detallada en un archivo .txt 
+de las acciones que realizarias para cocinar un huevo.
+
+1. Tomar un huevo, una sartén y aceite.
+2. Colocar la sartén en la estufa.
+3. Encender la estufa a temperatura media.
+4. Agregar un poco de aceite a la sartén.
+5. Romper el huevo y ponerlo en la sartén.
+6. Esperar a que se cocine.
+7. Revolver o voltear el huevo.
+8. Retirar el huevo y colocarlo en un plato.
+9. Apagar la cocina.
